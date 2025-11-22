@@ -1,4 +1,3 @@
-```markdown
 # E-Commerce Analytics on BigQuery
 
 A modern data analytics platform built on Google BigQuery that transforms raw e-commerce data into actionable business intelligence.
@@ -112,13 +111,13 @@ GROUP BY 1;
 - **Product**: Inventory and category optimization
 - **Executive**: Business performance dashboards
 
-## 📈 Performance
+## Performance
 
 - **Query Optimization**: Leveraging BigQuery's columnar storage
 - **Data Freshness**: Daily updates via scheduled queries
 - **Scalability**: Handles 100K+ records efficiently
 
-## 🤝 Contributing
+## Contributing
 
 This project demonstrates modern cloud data warehousing patterns and can be extended with:
 - Real-time data streaming
